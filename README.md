@@ -30,7 +30,13 @@
   https://drive.google.com/file/d/1-ip2B2oq29PNUIN5K-_RQLSqsGIiZ2hU/view?usp=sharing
 
 
-7)**Project Files**
+**7)Project Documentation**
+  The complete project documentation is available in the repository as a PDF file.
+ 
+  https://drive.google.com/file/d/1YdGGK9UdgZ-COQl6BdgOt7cIoEi6uRFC/view?usp=sharing
+
+
+8)**Project Files**
 **This repository contains the following files:**
 
   a)Python code file
@@ -42,7 +48,7 @@
   d)Project documentation PDF
 
 
-**8)How to Run the Project**
+**9)How to Run the Project**
   1. Download or clone the repository to your computer.
   2. Install Python if it is not already installed.
   3. Install Flask by running the following command in the terminal or command prompt:
