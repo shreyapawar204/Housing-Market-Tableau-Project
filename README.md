@@ -41,4 +41,18 @@
 
   d)Project documentation PDF
 
+
+**8)How to Run the Project**
+  1. Download or clone the repository to your computer.
+  2. Install Python if it is not already installed.
+  3. Install Flask by running the following command in the terminal or command prompt:
+     pip install flask
+     
+  5. Open the Python file (temp.py) in Spyder or any Python IDE.
+  6. Run the Python file.
+  7. After running the file, open a web browser and go to:
+     http://127.0.0.1:5000/
+     
+  9. The project webpage (index.html) will open and display the project interface.
+
   
