@@ -1,64 +1,92 @@
-                                      **Visualizing Housing Market Trends: An Analysis of Sale Prices and Features**
+🏠 Visualizing Housing Market Trends: An Analysis of Sale Prices and Features
+📌 Project Description
 
+This project analyzes housing market data to understand the relationship between house sale prices and different property features such as bedrooms, bathrooms, area, and floors.
 
-1)**Project Description**
-  This project analyzes housing market data to understand the relationship between house sale prices and different features. The analysis is visualized using        dashboards and stories created in Tableau.
+The analysis is presented using interactive dashboards and stories created in Tableau, helping users explore housing market trends and insights.
 
+🛠 Tools and Technologies Used
 
-2)**Tools and Technologies Used**
-  a)Python
-  b)Flask
-  c)HTML
-  d)CSS
-  e)Tableau
+🐍 Python
 
+🌐 Flask
 
-3)**Dataset**
-  The dataset used in this project contains housing market information such as sale price, number of bedrooms, area, and other important features used for           analysis.
+🧾 HTML
 
+🎨 CSS
 
-4)**Tableau Dashboard Link**
-  https://public.tableau.com/app/profile/shreya.pawar5452/viz/ComprehensiveHouseDataAnalysis_17724695421850/Dashboard2
+📊 Tableau
 
+📂 Dataset
 
-5)**Tableau Story Link**
-  https://public.tableau.com/app/profile/shreya.pawar5452/viz/HouseAgeDistributionbyNumberofBathroomsBedroomsandFloors/Story1
+The dataset used in this project contains housing market information including:
 
+🏠 Sale Price
 
-6)**Project Demo (Screen Recording)**
-  A screen recording explaining the working of the project is available here:
-  https://drive.google.com/file/d/1-ip2B2oq29PNUIN5K-_RQLSqsGIiZ2hU/view?usp=sharing
+🛏 Number of Bedrooms
 
+🛁 Number of Bathrooms
 
-**7)Project Documentation**
-  The complete project documentation is available in the repository as a PDF file.
- 
-  https://drive.google.com/file/d/1n5NVUA9DCdgkEVaA7jIV94Mb69rb06Rq/view?usp=sharing
+📐 Area / Square Footage
 
+🏢 Number of Floors
 
-8)**Project Files**
-**This repository contains the following files:**
+These features are used to analyze patterns and trends in the housing market.
 
-  a)Python code file
+📊 Tableau Dashboard
 
-  b)HTML and CSS files
+🔗 Live Dashboard
 
-  c)Dataset used for analysis
+https://public.tableau.com/app/profile/shreya.pawar5452/viz/ComprehensiveHouseDataAnalysis_17724695421850/Dashboard2
 
-  d)Project documentation PDF
+📖 Tableau Story
 
+🔗 Story Visualization
 
-**9)How to Run the Project**
-  1. Download or clone the repository to your computer.
-  2. Install Python if it is not already installed.
-  3. Install Flask by running the following command in the terminal or command prompt:
-     pip install flask
-     
-  5. Open the Python file (temp.py) in Spyder or any Python IDE.
-  6. Run the Python file.
-  7. After running the file, open a web browser and go to:
-     http://127.0.0.1:5000/
-     
-  9. The project webpage (index.html) will open and display the project interface.
+https://public.tableau.com/app/profile/shreya.pawar5452/viz/HouseAgeDistributionbyNumberofBathroomsBedroomsandFloors/Story1
+
+🎥 Project Demo Video
+
+Watch the full project demonstration video here:
+
+🔗 https://drive.google.com/file/d/1-ip2B2oq29PNUIN5K-_RQLSqsGIiZ2hU/view?usp=sharing
+
+📑 Project Documentation
+
+The complete project documentation PDF is available here:
+
+🔗 https://drive.google.com/file/d/1n5NVUA9DCdgkEVaA7jIV94Mb69rb06Rq/view?usp=sharing
+
+📁 Project Files
+
+This repository contains the following files:
+
+🐍 Python Code File
+
+🌐 HTML and CSS Files
+
+📊 Dataset Used for Analysis
+
+📄 Project Documentation (PDF)
+
+⚙️ How to Run the Project
+
+Follow these steps to run the project:
+
+1️⃣ Download or clone the repository
+
+2️⃣ Install Python (if not installed)
+
+3️⃣ Install Flask
+
+pip install flask
+
+4️⃣ Open the Python file temp.py in Spyder or any Python IDE
+
+5️⃣ Run the Python file
+
+6️⃣ Open your browser and go to:
+
+http://127.0.0.1:5000/
 
   
